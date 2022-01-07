@@ -6,6 +6,11 @@ body, html{
 h1{
 text-align:center;
 color:white;
+font-family:'Times New Roman', Times, serif;
 }
 header{
 background-color:red;
+}
+#head{
+background-color:red;
+}
