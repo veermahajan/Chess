@@ -11,6 +11,11 @@ font-family:'Times New Roman', Times, serif;
 }
 #secondHeader{
 background-color:white;
+text-align:center;
+}
+header{
+margin:0;
+padding:0;
 }
 #head{
 background-color:red;
@@ -18,20 +23,29 @@ background-color:red;
 #button1{
 color:black;
 background-color:green;
+text-align:center;
+	
+
 }
 #button2{
 color:black;
 background-color:red;
+text-align:center;
+	
 }
 
 #button3{
 color:black;
 background-color:blue;
+text-align:center;
+	
 }
 
 #button4{
 color:black;
 background-color:purple;
+text-align:center;
+
 }
 
 button{
