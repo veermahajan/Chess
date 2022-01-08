@@ -3,6 +3,16 @@ margin:0;
 padding:0;
 background-color:#211865;
 }
+
+#description{
+float:none;
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+text-shadow:1px 1px blue;
+font-family:18px;
+margin:6px;
+padding:6px;
+}
+
 body{
 margin:0;
 padding:0;
